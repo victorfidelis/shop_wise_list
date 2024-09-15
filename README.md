@@ -6,6 +6,12 @@ https://play.google.com/store/apps/details?id=br.com.vfdesenvolvimento.shop_wise
 ## Descrição resumida
 O Shop Wise é o seu assistente de compras inteligente, projetado para tornar suas idas ao supermercado mais eficientes e econômicas. 
 
+## Tecnologias
+- Dart
+- Flutter
+- Bloc
+- SQlite
+
 ## Funcionalidades
 1. Produtividade
 - Ordene os itens na lista para economizar tempo enquanto você faz suas compras.
@@ -25,9 +31,3 @@ O Shop Wise é o seu assistente de compras inteligente, projetado para tornar su
 4. Compartilhamento
 - Compartilhe suas compras através de texto ou arquivo.
 - Leia e gere listas através de arquivos gerados pelo próprio app.
-
-## Tecnologias
-- Dart
-- Flutter
-- Bloc
-- SQlite
