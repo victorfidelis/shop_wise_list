@@ -10,10 +10,10 @@ O **Shop Wise** é o seu assistente de compras inteligente, projetado para torna
 
 ## 🚀 Tecnologias Utilizadas
 
-- 🏗 **Dart**
-- 📱 **Flutter**
-- 🔄 **Bloc** (gerenciamento de estado)
-- 🗄 **SQLite** (armazenamento local)
+- **Dart**
+- **Flutter**
+- **Bloc** (gerenciamento de estado)
+- **SQLite** (armazenamento local)
 
 ## 🔥 Principais Funcionalidades
 
