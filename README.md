@@ -36,7 +36,7 @@ O **Shop Wise** é o seu assistente de compras inteligente, projetado para torna
 - Compartilhe suas listas de compras via texto ou arquivo.
 - Importe listas de compras diretamente pelo aplicativo, utilizando arquivos gerados pelo próprio Shop Wise.
 
-## 🖼️ Captura de Tela
+## 🖼️ Capturas de Tela
 
 <img src="https://github.com/user-attachments/assets/8ca3f9f3-c1d3-42e7-b36c-556a35c23c11" width="250">
 <img src="https://github.com/user-attachments/assets/6d887719-8cd8-41bb-a240-136da30ec85d" width="250">
