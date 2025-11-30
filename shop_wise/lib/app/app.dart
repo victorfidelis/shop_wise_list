@@ -9,7 +9,6 @@ import 'package:shop_wise/app/bloc/product/product_bloc.dart';
 import 'package:shop_wise/app/bloc/product_list/product_list_bloc.dart';
 import 'package:shop_wise/app/bloc/product_mold/product_mold_bloc.dart';
 import 'package:shop_wise/app/bloc/store/store_bloc.dart';
-import 'package:shop_wise/app/view/home/home_page.dart';
 import 'package:shop_wise/app/view/splash/splash_page.dart';
 
 class App extends StatelessWidget {

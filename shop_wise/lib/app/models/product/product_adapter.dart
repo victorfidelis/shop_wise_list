@@ -1,4 +1,3 @@
-import 'package:shop_wise/app/models/category/category_adapter.dart';
 import 'package:shop_wise/app/models/category/category_model.dart';
 import 'package:shop_wise/app/models/product/product_model.dart';
 
